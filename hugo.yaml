@@ -64,7 +64,7 @@ params:
       - name: Projects
         url: "/projects"
       - name: Resume
-        url: "https://docs.google.com/document/d/1bC7IAaUZZGkx7k3FUb34sQXjgzpSaeTsuA-dA7tuWFA/edit?usp=sharing"
+        url: "/ekemini_bassey_cv.pdf"
       - name: Writeups & Research
         url: "https://medium.com/@b4ssey"
 
@@ -122,13 +122,13 @@ menu:
       name: Projects
       url: /projects/
       weight: 20
-    - identifier: writeups  # Changed from "Blog" to "Writeups" to sound more AppSec/Hacker-ish
-      name: Writeups
-      url: https://medium.com/@b4ssey
+    - identifier: journal
+      name: Journal
+      url: https://b4ssey.bearblog.dev # UPDATE THIS
       weight: 30
     - identifier: cv
       name: Resume
-      url: https://docs.google.com/document/d/1bC7IAaUZZGkx7k3FUb34sQXjgzpSaeTsuA-dA7tuWFA/edit?usp=sharing
+      url: /ekemini_bassey_cv.pdf
       weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
