@@ -64,7 +64,7 @@ params:
       - name: Projects
         url: "/projects"
       - name: Resume
-        url: "/Ekemini_Bassey_Senior_AppSec_Engineer.pdf"
+        url: "https://docs.google.com/document/d/1bC7IAaUZZGkx7k3FUb34sQXjgzpSaeTsuA-dA7tuWFA/edit?usp=sharing"
       - name: Writeups & Research
         url: "https://medium.com/@b4ssey"
 
@@ -128,7 +128,7 @@ menu:
       weight: 30
     - identifier: cv
       name: Resume
-      url: /Ekemini_Bassey_Senior_AppSec_Engineer.pdf
+      url: https://docs.google.com/document/d/1bC7IAaUZZGkx7k3FUb34sQXjgzpSaeTsuA-dA7tuWFA/edit?usp=sharing
       weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
