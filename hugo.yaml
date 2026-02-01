@@ -61,10 +61,10 @@ params:
     imageHeight: 150
     imageTitle: Ekemini Bassey
     buttons:
-      - name: Projects
-        url: "/projects"
-      - name: Resume
-        url: "/ekemini_bassey_cv.pdf"
+      # - name: Projects
+      #   url: "/projects"
+      # - name: Resume
+      #   url: "/ekemini_bassey_cv.pdf"
       - name: Writeups & Research
         url: "https://medium.com/@b4ssey"
 
@@ -78,8 +78,10 @@ params:
       url: "https://linkedin.com/in/e-bassey"
     - name: github
       url: "https://github.com/b4ssey"
-    - name: medium
-      url: "https://medium.com/@b4ssey"
+    - name: stackoverflow
+      url: "https://stackoverflow.com/users/11142050/b4ssey"
+    # - name: medium
+    #   url: "https://medium.com/@b4ssey"
     - name: credly
       url: "https://www.credly.com/users/ekemini-bassey"
     - name: email
@@ -99,7 +101,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/b4ssey/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
