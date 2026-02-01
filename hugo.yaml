@@ -1,7 +1,8 @@
 baseURL: "https://ekeminibassey.com/"
 languageCode: en-us
 title: "Ekemini Bassey"
-theme: ["PaperMod"]
+# Theme via Hugo Modules (no git submodule – works on Vercel)
+theme: github.com/adityatelange/hugo-PaperMod
 
 enableRobotsTXT: true
 buildDrafts: false

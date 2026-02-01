@@ -1,4 +1,5 @@
 {
-  "buildCommand": "git submodule update --init --recursive && hugo --minify",
+  "installCommand": "yum install -y golang",
+  "buildCommand": "hugo mod get && hugo --minify",
   "outputDirectory": "public"
 }
