@@ -80,6 +80,8 @@ params:
       url: "https://github.com/b4ssey"
     - name: medium
       url: "https://medium.com/@b4ssey"
+    - name: credly
+      url: "https://www.credly.com/users/ekemini-bassey"
     - name: email
       url: "mailto:bassey.ekemini.e@gmail.com"
 
