@@ -18,7 +18,7 @@ params:
   description: "Portfolio of Ekemini Bassey - Product Security Engineer. Specializing in Application Security, Threat Modeling, and Secure SDLC."
   keywords: [Product Security, AppSec, Threat Modeling, Secure Coding, DevSecOps, Cloud Security, Ekemini Bassey]
   author: Ekemini Bassey
-  images: ["static/portfolio.png"]
+  images: ["/portfolio.png"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
